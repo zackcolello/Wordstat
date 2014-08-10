@@ -1,6 +1,0 @@
-This is a test file test
-Many
-TEST
-this is a test
-what
-
